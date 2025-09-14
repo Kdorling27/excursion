@@ -1,0 +1,20 @@
+* {
+  background-color: black;
+  font-family: Verdana;
+}
+
+header {
+  font-weight: 400;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.top-link, bottom-link {
+  color: aquamarine;
+  font-size: 16px;
+
+  
+
+
+
