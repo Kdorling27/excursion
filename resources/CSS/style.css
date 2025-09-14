@@ -19,10 +19,12 @@ header {
 .video {
   text-align: center;
 
-.travel-guide {
+.travel-guide, .sales-info {
   font-size: 42px;
   font-weight: 300;
   text-align: center;
+  color: white:
+  
 }
 
 .excursion-remembers {
@@ -30,9 +32,22 @@ header {
   color: gray;
 }
 
+.camp-photo {
+  text-align: center;
+}
+
+.icon {
+  text-align: center;
+
+.copyright {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+
 
 
   
+
 
 
 
